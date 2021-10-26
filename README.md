@@ -1,11 +1,14 @@
-### Oláá !! Eu sou a Suzi Nogueira 🤓
+<div>
+  <h2> <img height="100px" src="https://user-images.githubusercontent.com/12518149/138969765-b0b498bc-e590-4a40-9827-c83612430075.gif" />
+    Hii, I'm Suzi Nogueira !! </h2>
+</div>
 
 <div align="center">
   <a href="https://github.com/suzinogueira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suzinogueira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzinogueira&layout=compact&langs_count=7&theme=radical"/>
 </div>
-
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Suzi-HTML" height="30" src="https://user-images.githubusercontent.com/12518149/137835898-e75e65d1-c365-4411-8896-77407a11de10.png">
   <img align="center" alt="Suzi-CSS" height="30" src="https://user-images.githubusercontent.com/12518149/137836223-5ebb382c-16d4-4278-b373-62b380980241.png">
