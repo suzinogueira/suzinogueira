@@ -5,7 +5,7 @@
 
 - :fire: Currently learning JavaScript, NodeJS and ReactJS. 
 - :woman_technologist: Finishing the course Development Web Full Stack on ProgramadorBR. 
-- :woman_technologist: Learning Node.js on Ignite from Rocketseat.
+- :woman_technologist: Learning React.js on Ignite from Rocketseat.
 - :woman_student:	Bachelor of Information Systems 
 
 ##
